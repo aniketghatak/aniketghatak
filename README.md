@@ -12,21 +12,13 @@
 
 ### Let me TRY to tell you something 'ABOUT ME' 🤓
 
-Hey, Hello everyone, I am Aniket Ghatak. I may use complex words sometimes, but I'm a simple guy who loves to simplify complex things.
-
-I am a keen enthusiast of Internet technology-related stuff. I read about various things on the Internet and just continue to fall in love with it. I also love other stuff related to social media. I just love the technology behind it and **kudos** to those who made it happen.
+Hey, Hello everyone, I am Aniket Ghatak. I am a keen enthusiast of Internet technology-related stuff. I read about various things on the Internet and just continue to fall in love with it. I also love other stuff related to social media. I just love the technology behind it and **kudos** to those who made it happen.
 
 I love to learn new things and I like to share what I learn. I will soon start my own YouTube channel to share knowledge.
 
-Well, I browse the Internet with the perspective of improving myself at every point in time and also trying to enrich the life of those who love me.
-
 - 🔭 I’m currently working on various **Power BI** and **Tableau** Projects
 
-- 🌱 I’m currently interested to create projects on **Data Analysis and Visualizations**
-
-- 👯 I love learning new things.
-
-- 🤝 I am learning the art of **Teaching**
+- 🌱 I’m currently working on **Data Analysis and Visualizations**
 
 - 👨‍💻 All of my projects are available at **[Github](www.github.com/aniketghatak)**
 
