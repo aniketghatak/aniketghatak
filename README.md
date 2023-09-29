@@ -8,21 +8,14 @@
 
 </p>
 
-<h2 align="center">A passionate technology enthusiast from India.</h2>
+<h2 align="center">Welcome to my profile.</h2>
 
-### Let me TRY to tell you something 'ABOUT ME' 🤓
 
-Hey, Hello everyone, I am Aniket Ghatak. I am a keen enthusiast of Internet technology-related stuff. I read about various things on the Internet and just continue to fall in love with it. I also love other stuff related to social media. I just love the technology behind it and **kudos** to those who made it happen.
-
-I love to learn new things and I like to share what I learn. I will soon start my own YouTube channel to share knowledge.
-
-- 🔭 I’m currently working on various **Power BI** and **Tableau** Projects
-
-- 🌱 I’m currently working on **Data Analysis and Visualizations**
+- 🔭 I’m currently working on various projects including **Power BI** , **Tableau** and other tech projects.
 
 - 👨‍💻 All of my projects are available at **[Github](www.github.com/aniketghatak)**
 
-- 💬 Love to think about **The Wonderful World Of Internet**
+- 💬 Do view my other **social media channels**
 
 - 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/aniketghatak)**
 
@@ -113,4 +106,3 @@ I love to learn new things and I like to share what I learn. I will soon start m
 ## **Thanks and Regards ❤**
 
 <hr/>
-
