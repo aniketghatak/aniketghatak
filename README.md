@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Aniket Ghatak</h1><a href="#">
- </a>
+# 👋 Welcome to My GitHub Playground!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aniketghatak">
@@ -8,14 +7,17 @@
 
 </p>
 
-<h2 align="center">Welcome to my profile.</h2>
+<h2 align="center"> Aniket Ghatak</h2>
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on various projects including **Power BI** , **Tableau** and other tech projects.
+- 💬 Hey there! I'm **Aniket Ghatak**, a dynamic and data-driven professional on a mission to leverage my skills to drive innovation and foster growth. My expertise lies in wielding the powers of **Analytics**, **Data Visualizations**, **UI Designs**, and **Digital Marketing** to unravel insights and craft compelling narratives.
 
-- 👨‍💻 All of my projects are available at **[Github](www.github.com/aniketghatak)**
+### 💼 Professional Journey
 
-- 💬 Do view my other **social media channels**
+- Venturing through Digital Marketing and Data Analytics realms, I've sculpted my skills in crafting illuminating visualizations with Tableau, Power BI, and scripting data wonders with Python and SQL. My journey is a perpetual odyssey of learning and adapting to the dynamic professional landscape.
+
+- 🔭 I’m currently working on various projects including **Power BI** , **Tableau** , and **Python** & various other projects.
 
 - 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/aniketghatak)**
 
@@ -59,7 +61,7 @@
     </td>
  <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://w3skillset.com/wp-content/uploads/2021/09/PowerBI-Logo.png" alt="power-bi" width="40" height="40"/>
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
       </a>
       <br>Power BI
  </td> 
@@ -102,6 +104,20 @@
 </td>
 </tr>
 </table>
+
+### 🤝 Networking & Collaboration
+
+Embracing the power of collaboration, I'm all about fostering meaningful connections. Let's connect and explore synergies, share knowledge, and nurture professional growth.
+
+### 🚀 Looking Forward
+
+As I navigate the ever-evolving analytics cosmos, I'm thrilled about connecting with fellow enthusiasts, industry leaders, and innovators. Let's embark on this data-driven voyage together!
+
+### 📬 Contact
+
+Feel free to reach out if you're up for a chat, collaboration, or plotting the next data adventure. Together, let's craft something extraordinary!
+
+🙌 Thank you for dropping by my digital abode. Let's code, visualize, and innovate together!
 
 ## **Thanks and Regards ❤**
 
