@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Playground!
+# 👋 Welcome to My GitHub Profile!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aniketghatak">
@@ -11,11 +11,8 @@
 
 ## 🚀 About Me
 
-- 💬 Hey there! I'm **Aniket Ghatak**, a dynamic and data-driven professional on a mission to leverage my skills to drive innovation and foster growth. My expertise lies in wielding the powers of **Analytics**, **Data Visualizations**, **UI Designs**, and **Digital Marketing** to unravel insights and craft compelling narratives.
+- 💬 Hey there! I'm **Aniket Ghatak**, a dynamic and data-driven professional on a mission to leverage my skills to drive innovation and foster growth. My expertise lies in wielding the powers of **Analytics**, **Data Visualizations**, **UI Designs**, and **Digital Marketing**.
 
-### 💼 Professional Journey
-
-- Venturing through Digital Marketing and Data Analytics realms, I've sculpted my skills in crafting illuminating visualizations with Tableau, Power BI, and scripting data wonders with Python and SQL. My journey is a perpetual odyssey of learning and adapting to the dynamic professional landscape.
 
 - 🔭 I’m currently working on various projects including **Power BI** , **Tableau** , and **Python** & various other projects.
 
@@ -105,19 +102,9 @@
 </tr>
 </table>
 
-### 🤝 Networking & Collaboration
-
-Embracing the power of collaboration, I'm all about fostering meaningful connections. Let's connect and explore synergies, share knowledge, and nurture professional growth.
-
-### 🚀 Looking Forward
-
-As I navigate the ever-evolving analytics cosmos, I'm thrilled about connecting with fellow enthusiasts, industry leaders, and innovators. Let's embark on this data-driven voyage together!
-
 ### 📬 Contact
 
-Feel free to reach out if you're up for a chat, collaboration, or plotting the next data adventure. Together, let's craft something extraordinary!
-
-🙌 Thank you for dropping by my digital abode. Let's code, visualize, and innovate together!
+Feel free to reach out if you're up for a chat or collaboration.
 
 ## **Thanks and Regards ❤**
 
