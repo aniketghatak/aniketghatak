@@ -9,14 +9,15 @@
 
 <h2 align="center"> Aniket Ghatak</h2>
 
-## 🚀 About Me
+## About Me
 
-- 💬 Hey there! I'm **Aniket Ghatak**, a dynamic and data-driven professional on a mission to leverage my skills to drive innovation and foster growth. My expertise lies in wielding the powers of **Analytics**, **Data Visualizations**, **UI Designs**, and **Digital Marketing**.
+Passionate about data-driven decision-making, business intelligence, and digital strategy
+  
+🔹 Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, and Excel
 
+🔹 Experienced in SEO, social media management, web analytics, and WordPress development
 
-- 🔭 I’m currently working on various projects including **Power BI** , **Tableau** , and **Python** & various other projects.
-
-- 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/aniketghatak)**
+I enjoy transforming raw data into meaningful insights and optimizing digital presence through data and analytics!
 
 ---
 
@@ -104,7 +105,7 @@
 
 ### 📬 Contact
 
-Feel free to reach out if you're up for a chat or collaboration.
+- Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/aniketghatak)**
 
 ## **Thanks and Regards ❤**
 
