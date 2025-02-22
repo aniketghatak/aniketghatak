@@ -1,27 +1,32 @@
 # 👋 Welcome to My GitHub Profile!
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aniketghatak">
-    <img align = "left", alt="Aniket's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-4K-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-
 </p>
 
-<h2 align="center"> Aniket Ghatak</h2>
+<h2> Aniket Ghatak</h2>
 
 ## About Me
 
-Passionate about data-driven decision-making, business intelligence, and digital strategy
+#### Passionate about data-driven decision-making, business intelligence, and digital strategy.
   
-🔹 Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, and Excel
+🔹 Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, and Excel.
 
-🔹 Experienced in SEO, social media management, web analytics, and WordPress development
+🔹 Experienced in SEO, social media management, web analytics, and WordPress development.
 
-I enjoy transforming raw data into meaningful insights and optimizing digital presence through data and analytics!
+#### When I'm not at work or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Analytics, ✳️ Data Science and ✳️ Data Visualization projects.
+
+I love working with different technologies and my current favorite ones are
+
+❤️ SQL / PostgreSQL / MySQL
+
+❤️ Tableau
+
+❤️ Python
+
+❤️ Power BI
 
 ---
 
-# Languages and Tools 🛠
+## Languages and Tools 🛠
 
 <table align="center">
   <tr>
